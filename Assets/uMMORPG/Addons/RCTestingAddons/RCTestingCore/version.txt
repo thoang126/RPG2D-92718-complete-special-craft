@@ -1,0 +1,31 @@
+////////////////////////
+//      RCTesting     //
+//       Core By:     //
+//     RCTesting      //
+//       A.K.A.       //
+//    (KD, DirtyD)    //
+////////////////////////
+
+//////
+//RCTesting Core
+//version 1.0
+//////
+
+
+////////////////////////
+//                    //
+//     CHANGE LOG     //
+//                    //
+////////////////////////
+
+
+
+//////
+//VERSION 1.0
+//////
+
+Original Release.
+
+Creates UI popup that doesn't interfere with other add-ons
+
+

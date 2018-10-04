@@ -1,0 +1,28 @@
+////////////////////////
+//Specialized Crafting//
+//         By:        //
+//     RCTesting      //
+//       A.K.A.       //
+//    (KD, DirtyD)    //
+////////////////////////
+
+
+//////
+//Specialized Crafting
+//version 1.0
+//////
+
+//////////////////
+/// CHANGE LOG ///
+//////////////////
+
+//////
+///Version 1.1
+//////
+Fixes to make compatible with latest uMMORPG 2D(1.30) and 3D(1.36)
+
+
+//////
+///Version 1.0
+//////
+Origional release

@@ -1,0 +1,36 @@
+////////////////////////
+// Collide Open Panel //
+//         By:        //
+//     RCTesting      //
+//       A.K.A.       //
+//    (KD, DirtyD)    //
+////////////////////////
+
+
+//////
+//Collide Open Panel - free 
+//version 1.1
+//////
+
+//////
+//version 1.1
+//////
+Added 3D modification to scripts
+Added 3D prefabs
+	
+
+//////
+//version 1.0
+//////
+1) Added collide exit to auto close panel when player leaves area.
+2) Fixed bug where panel opened for all players, even when only 1 player collided with panel opener
+3) Changed directory layout to make future updates easier.
+	- Moved everything to Attets -> uMMORPG -> Addons -> RCTestingAddons
+	- Scripts in scripts folder, prefabs in prefabs folder, sprites in sprites folder, etc...
+	
+	
+	
+//////
+//version 0.1
+//////
+initial release
